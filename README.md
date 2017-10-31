@@ -7,4 +7,7 @@
 
 This shortcode generates a list of pages.
 
-*Pages* argument accepts a list of comma separated page IDs
+##### Arguments
+`Pages` 
+*(Required)*
+This argument accepts a list of comma separated page IDs
