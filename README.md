@@ -21,11 +21,9 @@ This shortcode displays a staff member and their job title
 `staff` 
 *(Required)*
 This argument accepts a list of comma separated names & surnames
-
 `title` 
 *(Required)*
 This argument accepts a list of comma separated job titles. Note that the title list should match the amount of staff
-
 `campus` 
 *(Required)*
 Name of the campus
