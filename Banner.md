@@ -5,12 +5,12 @@ You need to add custom fields to the page you would like to create a banner for.
 
 This makes it easier to add/remove banners without having to remember to remove them!
 
-## Required Custom Fields
-
+## Banner image
 Before you can create a banner you will need to set a Featured Image for the page you are working on.
 
 Banner Dimensions: 2148 x 405 (72 DPI)
-Once the Featued Image has been set you can create the Custom Fields.
+
+## Required Custom Fields
 
 ### Banner Title
 `banner_title` *(Optional)* By default the page title will be used as the banner title but if you would like to use a custom title, use this custom field.
