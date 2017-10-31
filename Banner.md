@@ -23,3 +23,10 @@ Banner Dimensions: 2148 x 405 (72 DPI)
 
 ### Banner Style
 `banner_style` *(Optional)* All text on the banners are white. In some cases the image might be too light making it hard to read the text. This field is used to add a black overlay ontop of the banenr image to make text more readble. Current the only accepted value is `light`
+
+
+## Next step
+As soon as you have followed these steps, the page will be added to an administration page where you can add/remove it from specific pages on the frontend. The Top Banner (the area right at the top of the website where events/notices are displayed) can also be managed from there. Note that only one Top Banner can be dispalyed at a time.
+
+## Side Note
+If you are using a banner for a page that uses the `date` custom field, the banner will automatically be removed when the date has passed.
