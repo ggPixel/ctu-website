@@ -15,8 +15,7 @@ Custom fields make it easier to manage events are ensure that when an event has 
 #### Required custom fields
 
 ##### DATE
-
-Format: DD-MM-YYYY HH:ii
+`date` Format: DD-MM-YYYY HH:ii
 
 The date field is used to determine whether it should be displayed on the website and in search results.
 If the events spans over a couple of hours you can use the date like so: 11 November 2017 09:00-13:00. The last part will automatically be stripped to determine the start date.
