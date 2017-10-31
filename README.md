@@ -2,9 +2,9 @@
 
 ## Shortcodes
 
-#### List pages
+### List pages
 `[listpages pages=""]`
 
 This shortcode generates a list of pages.
 
-'Pages' argument accepts a list of comma separated page IDs
+*Pages* argument accepts a list of comma separated page IDs
