@@ -8,7 +8,11 @@
 This shortcode generates a list of pages.
 
 #### Arguments
-`Pages` 
+`pages` 
+*(Required)*
+Should it link through to the page? This argument only accepts two values: "disabled" or "enabled"
+
+`link` 
 *(Required)*
 This argument accepts a list of comma separated page IDs
 
